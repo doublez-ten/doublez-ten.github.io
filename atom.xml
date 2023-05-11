@@ -6,7 +6,7 @@
   <link href="https://doublez-ten.github.io/atom.xml" rel="self"/>
   
   <link href="https://doublez-ten.github.io/"/>
-  <updated>2023-05-11T03:03:57.322Z</updated>
+  <updated>2023-05-11T03:15:04.841Z</updated>
   <id>https://doublez-ten.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My new first article</title>
+    <link href="https://doublez-ten.github.io/2023/05/11/My-new-first-article/"/>
+    <id>https://doublez-ten.github.io/2023/05/11/My-new-first-article/</id>
+    <published>2023-05-11T03:15:04.000Z</published>
+    <updated>2023-05-11T03:15:04.841Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>My first article</title>
