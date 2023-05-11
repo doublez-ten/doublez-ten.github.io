@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>DoubleZのBlog</title>
   
-  <subtitle>Welcome to my blog</subtitle>
+  
   <link href="https://doublez-ten.github.io/atom.xml" rel="self"/>
   
   <link href="https://doublez-ten.github.io/"/>
