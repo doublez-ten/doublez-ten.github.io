@@ -1,5 +1,6 @@
 https://doublez-ten.github.io/2023/05/19/test-blog/
+https://doublez-ten.github.io/categories/index.html
 https://doublez-ten.github.io/tages/index.html
-https://doublez-ten.github.io/2023/05/11/My-new-first-article/
-https://doublez-ten.github.io/2023/05/11/My-first-article/
 https://doublez-ten.github.io/
+https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/
+https://doublez-ten.github.io/categories/SpringBoot/

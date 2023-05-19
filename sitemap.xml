@@ -11,27 +11,18 @@
   </url>
   
   <url>
+    <loc>https://doublez-ten.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://doublez-ten.github.io/tages/index.html</loc>
     
-    <lastmod>2023-05-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://doublez-ten.github.io/2023/05/11/My-new-first-article/</loc>
-    
-    <lastmod>2023-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://doublez-ten.github.io/2023/05/11/My-first-article/</loc>
-    
-    <lastmod>2023-05-11</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -46,6 +37,20 @@
   </url>
 
   
+  <url>
+    <loc>https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://doublez-ten.github.io/categories/SpringBoot/</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

@@ -6,7 +6,7 @@
   <link href="https://doublez-ten.github.io/atom.xml" rel="self"/>
   
   <link href="https://doublez-ten.github.io/"/>
-  <updated>2023-05-19T08:12:39.784Z</updated>
+  <updated>2023-05-19T09:49:44.797Z</updated>
   <id>https://doublez-ten.github.io/</id>
   
   <author>
@@ -17,48 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test blog</title>
+    <title>SpringBoot高版本循环依赖解决</title>
     <link href="https://doublez-ten.github.io/2023/05/19/test-blog/"/>
     <id>https://doublez-ten.github.io/2023/05/19/test-blog/</id>
-    <published>2023-05-19T08:12:39.000Z</published>
-    <updated>2023-05-19T08:12:39.784Z</updated>
+    <published>2023-05-19T08:12:39.783Z</published>
+    <updated>2023-05-19T09:49:44.797Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My new first article</title>
-    <link href="https://doublez-ten.github.io/2023/05/11/My-new-first-article/"/>
-    <id>https://doublez-ten.github.io/2023/05/11/My-new-first-article/</id>
-    <published>2023-05-11T03:15:04.000Z</published>
-    <updated>2023-05-11T09:06:38.454Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是最新的一篇博文"><a href="#这是最新的一篇博文" class="headerlink" title="这是最新的一篇博文"></a>这是最新的一篇博文</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">test</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h2 id="date-2023-05-19-16-12-00"><a href="#date-2023-05-19-16-12-00" class="headerlink" title="date: 2023-05-19 16:12:00"></a>date: 2023-05-19 16:12:00</h2><h1 id="关于SpringBoot高版本循环依赖解决"><a href="#关于SpringBoot高版本循环依赖解决" class="headerlink" title="关于SpringBoot高版本循环依赖解决"></a>关于SpringBoot高版本循环依赖解决</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><h3 id="application里添加配置"><a href="#application里添加配置" class="headerlink" title="application里添加配置"></a>application里添加配置</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">main:</span><br><span class="line">    allow-circular-references: true</span><br></pre></td></tr></table></figure><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>若使用的是xxxService导致，则使用xxxMapper</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;这是最新的一篇博文&quot;&gt;&lt;a href=&quot;#这是最新的一篇博文&quot; class=&quot;headerlink&quot; title=&quot;这是最新的一篇博文&quot;&gt;&lt;/a&gt;这是最新的一篇博文&lt;/h1&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;t</summary>
+    <summary type="html">&lt;h2 id=&quot;date-2023-05-19-16-12-00&quot;&gt;&lt;a href=&quot;#date-2023-05-19-16-12-00&quot; class=&quot;headerlink&quot; title=&quot;date: 2023-05-19 16:12:00&quot;&gt;&lt;/a&gt;date: 2023-05</summary>
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>My first article</title>
-    <link href="https://doublez-ten.github.io/2023/05/11/My-first-article/"/>
-    <id>https://doublez-ten.github.io/2023/05/11/My-first-article/</id>
-    <published>2023-05-11T03:03:57.000Z</published>
-    <updated>2023-05-11T03:03:57.322Z</updated>
+    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/SpringBoot/"/>
     
     
-    
-    
+    <category term="后端" scheme="https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
     
   </entry>
   
