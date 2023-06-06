@@ -3,11 +3,11 @@
   <title>DoubleZ</title>
   
   
-  <link href="https://double-z.vercel.app/atom.xml" rel="self"/>
+  <link href="https://doublez-ten.github.io/atom.xml" rel="self"/>
   
-  <link href="https://double-z.vercel.app/"/>
-  <updated>2023-06-06T07:39:04.924Z</updated>
-  <id>https://double-z.vercel.app/</id>
+  <link href="https://doublez-ten.github.io/"/>
+  <updated>2023-06-06T08:31:24.276Z</updated>
+  <id>https://doublez-ten.github.io/</id>
   
   <author>
     <name>DoubleZ</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>参数校验@NotBlank报错</title>
-    <link href="https://double-z.vercel.app/2023/06/06/validate-long/"/>
-    <id>https://double-z.vercel.app/2023/06/06/validate-long/</id>
+    <link href="https://doublez-ten.github.io/2023/06/06/validate-null/"/>
+    <id>https://doublez-ten.github.io/2023/06/06/validate-null/</id>
     <published>2023-06-06T07:32:51.000Z</published>
-    <updated>2023-06-06T07:39:04.924Z</updated>
+    <updated>2023-06-06T08:31:24.276Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="报错提示"><a href="#报错提示" class="headerlink" title="报错提示"></a>报错提示</h3><p>No validator could be found for constraint ‘javax.validation.constraints.NotBlank’ validating type ‘java.lang.Long’. Check configuration for ‘id’</p><h3 id="非空校验注解区别"><a href="#非空校验注解区别" class="headerlink" title="非空校验注解区别"></a>非空校验注解区别</h3><ul><li><code>@NotNull</code>:常用在数据类型为Long，Integer的基础数据类型</li><li><code>@NotEmpty</code>:常用在集合类和数组类型</li><li><code>@NotBlank</code>只能用于校验String数据类型</li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="报错提示"><a href="#报错提示" class="headerlink" title="报错提示"></a>报错提示</h3><p>No validator could be found for constraint ‘javax.validation.constraints.NotBlank’ validating type ‘java.lang.Long’. Check configuration for ‘id’</p><h3 id="非空校验注解区别"><a href="#非空校验注解区别" class="headerlink" title="非空校验注解区别"></a>非空校验注解区别</h3><ul><li><code>@NotNull</code>常用在数据类型为Long，Integer的基础数据类型</li><li><code>@NotEmpty</code>常用在集合类和数组类型</li><li><code>@NotBlank</code>只能用于校验String数据类型</li></ul>]]></content>
     
     
       
@@ -33,17 +33,19 @@
     
     
     
-    <category term="SpringBoot" scheme="https://double-z.vercel.app/categories/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/SpringBoot/"/>
     
     
-    <category term="后端" scheme="https://double-z.vercel.app/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="Validate" scheme="https://doublez-ten.github.io/tags/Validate/"/>
     
   </entry>
   
   <entry>
     <title>SpringBoot高版本循环依赖解决</title>
-    <link href="https://double-z.vercel.app/2023/05/19/test-blog/"/>
-    <id>https://double-z.vercel.app/2023/05/19/test-blog/</id>
+    <link href="https://doublez-ten.github.io/2023/05/19/circular/"/>
+    <id>https://doublez-ten.github.io/2023/05/19/circular/</id>
     <published>2023-05-19T08:12:39.783Z</published>
     <updated>2023-05-19T09:51:03.808Z</updated>
     
@@ -57,10 +59,10 @@
     
     
     
-    <category term="SpringBoot" scheme="https://double-z.vercel.app/categories/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/SpringBoot/"/>
     
     
-    <category term="后端" scheme="https://double-z.vercel.app/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
     
   </entry>
   

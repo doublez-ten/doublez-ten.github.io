@@ -1,7 +1,8 @@
-https://double-z.vercel.app/2023/06/06/validate-long/
-https://double-z.vercel.app/2023/05/19/test-blog/
-https://double-z.vercel.app/categories/index.html
-https://double-z.vercel.app/tages/index.html
-https://double-z.vercel.app/
-https://double-z.vercel.app/tags/%E5%90%8E%E7%AB%AF/
-https://double-z.vercel.app/categories/SpringBoot/
+https://doublez-ten.github.io/2023/06/06/validate-null/
+https://doublez-ten.github.io/2023/05/19/circular/
+https://doublez-ten.github.io/categories/index.html
+https://doublez-ten.github.io/tages/index.html
+https://doublez-ten.github.io/
+https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/
+https://doublez-ten.github.io/tags/Validate/
+https://doublez-ten.github.io/categories/SpringBoot/
