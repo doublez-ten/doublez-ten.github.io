@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://doublez-ten.github.io/2023/06/06/validate-long/</loc>
+    
+    <lastmod>2023-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://doublez-ten.github.io/2023/05/19/test-blog/</loc>
     
     <lastmod>2023-05-19</lastmod>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://doublez-ten.github.io/</loc>
-    <lastmod>2023-05-19</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,7 +48,7 @@
   
   <url>
     <loc>https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2023-05-19</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -48,7 +57,7 @@
   
   <url>
     <loc>https://doublez-ten.github.io/categories/SpringBoot/</loc>
-    <lastmod>2023-05-19</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
