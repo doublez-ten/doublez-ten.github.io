@@ -6,7 +6,7 @@
   <link href="https://doublez-ten.github.io/atom.xml" rel="self"/>
   
   <link href="https://doublez-ten.github.io/"/>
-  <updated>2023-06-06T08:31:24.276Z</updated>
+  <updated>2023-06-06T08:41:15.447Z</updated>
   <id>https://doublez-ten.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://doublez-ten.github.io/2023/06/06/validate-null/"/>
     <id>https://doublez-ten.github.io/2023/06/06/validate-null/</id>
     <published>2023-06-06T07:32:51.000Z</published>
-    <updated>2023-06-06T08:31:24.276Z</updated>
+    <updated>2023-06-06T08:41:15.447Z</updated>
     
     <content type="html"><![CDATA[<h3 id="报错提示"><a href="#报错提示" class="headerlink" title="报错提示"></a>报错提示</h3><p>No validator could be found for constraint ‘javax.validation.constraints.NotBlank’ validating type ‘java.lang.Long’. Check configuration for ‘id’</p><h3 id="非空校验注解区别"><a href="#非空校验注解区别" class="headerlink" title="非空校验注解区别"></a>非空校验注解区别</h3><ul><li><code>@NotNull</code>常用在数据类型为Long，Integer的基础数据类型</li><li><code>@NotEmpty</code>常用在集合类和数组类型</li><li><code>@NotBlank</code>只能用于校验String数据类型</li></ul>]]></content>
     
@@ -33,7 +33,9 @@
     
     
     
-    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/SpringBoot/"/>
+    <category term="Java" scheme="https://doublez-ten.github.io/categories/Java/"/>
+    
+    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/Java/SpringBoot/"/>
     
     
     <category term="后端" scheme="https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
@@ -47,19 +49,21 @@
     <link href="https://doublez-ten.github.io/2023/05/19/circular/"/>
     <id>https://doublez-ten.github.io/2023/05/19/circular/</id>
     <published>2023-05-19T08:12:39.783Z</published>
-    <updated>2023-05-19T09:51:03.808Z</updated>
+    <updated>2023-06-06T08:37:35.418Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="关于SpringBoot高版本循环依赖解决"><a href="#关于SpringBoot高版本循环依赖解决" class="headerlink" title="关于SpringBoot高版本循环依赖解决"></a>关于SpringBoot高版本循环依赖解决</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><h3 id="application里添加配置"><a href="#application里添加配置" class="headerlink" title="application里添加配置"></a>application里添加配置</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">main:</span><br><span class="line">    allow-circular-references: true</span><br></pre></td></tr></table></figure><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>若使用的是xxxService导致，则使用xxxMapper</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><h3 id="application里添加配置"><a href="#application里添加配置" class="headerlink" title="application里添加配置"></a>application里添加配置</h3><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">main:</span><br><span class="line">    allow-circular-references: true</span><br></pre></td></tr></table></figure><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>若使用的是xxxService导致，则使用xxxMapper</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;关于SpringBoot高版本循环依赖解决&quot;&gt;&lt;a href=&quot;#关于SpringBoot高版本循环依赖解决&quot; class=&quot;headerlink&quot; title=&quot;关于SpringBoot高版本循环依赖解决&quot;&gt;&lt;/a&gt;关于SpringBoot高版本循环依赖解决&lt;/</summary>
+    <summary type="html">&lt;h2 id=&quot;方法一&quot;&gt;&lt;a href=&quot;#方法一&quot; class=&quot;headerlink&quot; title=&quot;方法一&quot;&gt;&lt;/a&gt;方法一&lt;/h2&gt;&lt;h3 id=&quot;application里添加配置&quot;&gt;&lt;a href=&quot;#application里添加配置&quot; class=&quot;headerli</summary>
       
     
     
     
-    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/SpringBoot/"/>
+    <category term="Java" scheme="https://doublez-ten.github.io/categories/Java/"/>
+    
+    <category term="SpringBoot" scheme="https://doublez-ten.github.io/categories/Java/SpringBoot/"/>
     
     
     <category term="后端" scheme="https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/"/>

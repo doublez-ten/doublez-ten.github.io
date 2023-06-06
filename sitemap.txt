@@ -5,4 +5,5 @@ https://doublez-ten.github.io/tages/index.html
 https://doublez-ten.github.io/
 https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/
 https://doublez-ten.github.io/tags/Validate/
-https://doublez-ten.github.io/categories/SpringBoot/
+https://doublez-ten.github.io/categories/Java/
+https://doublez-ten.github.io/categories/Java/SpringBoot/
