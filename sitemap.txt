@@ -1,10 +1,14 @@
-https://doublez-ten.github.io/link/index.html
+https://doublez-ten.github.io/2023/12/05/wordFormatPdfByAspose/
 https://doublez-ten.github.io/2023/06/06/validate-null/
 https://doublez-ten.github.io/2023/05/19/circular/
+https://doublez-ten.github.io/link/index.html
 https://doublez-ten.github.io/categories/index.html
 https://doublez-ten.github.io/tages/index.html
 https://doublez-ten.github.io/
 https://doublez-ten.github.io/tags/%E5%90%8E%E7%AB%AF/
 https://doublez-ten.github.io/tags/Validate/
+https://doublez-ten.github.io/tags/Aspose/
+https://doublez-ten.github.io/tags/Word/
+https://doublez-ten.github.io/tags/Pdf/
 https://doublez-ten.github.io/categories/Java/
-https://doublez-ten.github.io/categories/Java/SpringBoot/
+https://doublez-ten.github.io/categories/SpringBoot/
